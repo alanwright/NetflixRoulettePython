@@ -6,15 +6,17 @@ A Python wrapper for the [NetflixRouletteAPI](http://netflixroulette.net/api) - 
 The intent of this version is to be updated quicker than the version available through pip so that when new features are added, you can quickly update your wrapper and don't need to wait for the official version. 
 
 ## Setup
-All you need to do is place the .py and .pyc file in the following directory on your machine:
+All you need to do is place the `.py` and `.pyc` file in the following directory on your machine:
 
-> path\to\Python27\Lib\site-packages
+```
+path\to\Python27\Lib\site-packages
+```
 
 ## Contributing
 Feel free to fork and add a pull request to add new methods, or add an issue and I will add new methods. You can also tweet me [@iamalanwright](http://twitter.com/iamalanwright).
 
 ### Recompiling
-If you decide to make your own changes and want to recompile hte .pyc file, simply open your command prompt or terminal to the directory of the new .py file and run the following commands:
+If you decide to make your own changes and want to recompile hte `.pyc` file, simply open your command prompt or terminal to the directory of the new `.py` file and run the following commands:
 
 ```
 $ python
