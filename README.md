@@ -1,7 +1,9 @@
 NetflixRoulettePython
 =====================
 
-A Python wrapper for the [NetflixRouletteAPI](http://netflixroulette.com/api) - extended from the original by [CodeUSASoftware](http://blog.codeusa.net/). Methods that were extended are mentioned in bold in the Methods section, all other methods were taken from the original source. The original source can be installed via pip: `pip install NetflixRoulette`
+A Python wrapper for the [NetflixRouletteAPI](http://netflixroulette.net/api) - extended from the original by [CodeUSASoftware](http://blog.codeusa.net/). Methods that were extended are mentioned in bold in the Methods section, all other methods were taken from the original source. The original source can be installed via pip: `pip install NetflixRoulette`.
+
+The intent of this version is to be updated quicker than the version available through pip so that when new features are added, you can quickly update your wrapper and don't need to wait for the official version. 
 
 ## Setup
 All you need to do is place the .py and .pyc file in the following directory on your machine:
