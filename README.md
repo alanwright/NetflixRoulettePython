@@ -8,8 +8,14 @@ The intent of this version is to be updated quicker than the version available t
 ## Setup
 All you need to do is place the `.py` and `.pyc` file in the following directory on your machine:
 
+### Windows
 ```
 path\to\Python27\Lib\site-packages
+```
+
+### Linux
+```
+usr/local/lib/python2.7/dist-packages
 ```
 
 ## Contributing
